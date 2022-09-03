@@ -8,7 +8,7 @@
 <p align="left">
  
 <a href="https://linkedin.com/in/subodhmotbhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedln" height="30" width="40" /></a>
-<a href="https://instagram.com/s_u_b_o_d_h_ms1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_u_b_o_d_h_ms1" height="30" width="40" /></a>
+<a href="https://instagram.com/s_u_b_o_d_h_ms1" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js)" alt="s_u_b_o_d_h_ms1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subodhmotbhare02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@subodhmotbhare18" height="30" width="40" /></a>
 </p>
 
